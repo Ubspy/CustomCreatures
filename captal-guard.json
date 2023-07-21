@@ -1,0 +1,16 @@
+{
+    "name": "Capital Guard",
+    "traits": "troop, human",
+    "level": 2,
+    "alignment": "ln",
+    "size": "medium",
+    "type": "human",
+    "items": [
+        {
+            "name": "Half Plate",
+            "system": {
+                "description": "City guards dawn a half plate."
+            }
+        }
+    ]
+}
